@@ -1,12 +1,3 @@
----
-title: auth_sqli.txt
-updated: 2024-08-12 13:57:24Z
-created: 2024-08-12 13:56:41Z
-latitude: 49.11930890
-longitude: 6.17571560
-altitude: 0.0000
----
-
 ```
 or 1=1
 or 1=1--
