@@ -7,7 +7,5 @@ Différentes listes pouvant être utiles :
 - Paramètre PHP
 
 ### Basique :
-- user.txt : 10 utilisateurs
-- pass.txt : 10 mots de passe
-
---> 100 combinaisons pour tenter de bruteforce
+- user.txt :
+- pass.txt :
